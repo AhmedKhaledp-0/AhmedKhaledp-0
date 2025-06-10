@@ -50,6 +50,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhaledp-0&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Contribution Graph
 
 <div align="center">

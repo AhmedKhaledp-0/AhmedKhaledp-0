@@ -21,6 +21,12 @@
 - **How to reach me:** Connect with me through GitHub or email
 - **Fun fact:** I believe every problem has an elegant solution waiting to be discovered
 
+## My Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Tech Stack
 
 <div align="left">
@@ -49,9 +55,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhaledp-0&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Contribution Graph
 

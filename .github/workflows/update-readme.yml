@@ -14,9 +14,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Update README with latest GitHub activity
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Update README with latest GitHub activity
+
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

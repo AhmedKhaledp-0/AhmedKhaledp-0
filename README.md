@@ -21,11 +21,6 @@
 - **How to reach me:** Connect with me through GitHub or email
 - **Fun fact:** I believe every problem has an elegant solution waiting to be discovered
 
-## My Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ## Tech Stack
 

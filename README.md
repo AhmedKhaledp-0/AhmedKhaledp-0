@@ -7,14 +7,22 @@ Frontend Developer
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedKhaledp-0&color=C9D1D9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedKhaledp-0&color=202326&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ### About Me
 
-- **Currently working on:** Innovative projects that make a difference
-- **Learning:** Always exploring new technologies and frameworks
-- **Interested in:** Frontend development, AI/ML, and open-source contributions
+
+  ```javascript
+  const ahmedkhaled = {
+    role: "Frontend Developer",
+    currentFocus: "Building scalable web applications",
+    learning: ["Rust"],
+    askMeAbout: ["AnyThing"],
+    funFact: "I debug with console.log more than I'd like to admit"
+  };
+  ```
+
 
 ### Tech Stack
 

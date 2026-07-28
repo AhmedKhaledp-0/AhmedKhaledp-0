@@ -59,12 +59,12 @@ Frontend Developer
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AhmedKhaledp-0&show_icons=true&theme=advanced&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedKhaledp-0&layout=compact&langs_count=8&theme=advanced"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AhmedKhaledp-0&show_icons=true&theme=advanced&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedKhaledp-0&layout=compact&langs_count=8&theme=advanced&bg_color=0D1117&border_color=30363D"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhmedKhaledp-0&theme=advanced" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AhmedKhaledp-0&theme=advanced&bg_color=0D1117&border=30363D" alt="GitHub Streak" />
 </div>
 
 ### Daily Contribution Graph

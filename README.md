@@ -60,11 +60,25 @@ Frontend Developer
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AhmedKhaledp-0&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedKhaledp-0&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
+  <img height="180em" style="padding-left: 20px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedKhaledp-0&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AhmedKhaledp-0&theme=advanced&background=0D1117&border=30363D&ring=C9D1D9&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</div>
+
+### 🔭 Actions
+
+<div align="center">
+  <img height="200px" src="https://streak-stats.demolab.com/?user=AhmedKhaledp-0&theme=advanced&background=0D1117&border=30363D&ring=C9D1D9&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedKhaledp-0/AhmedKhaledp-0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedKhaledp-0/AhmedKhaledp-0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedKhaledp-0/AhmedKhaledp-0/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ### Daily Contribution Graph

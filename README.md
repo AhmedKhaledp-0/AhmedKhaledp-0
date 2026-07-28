@@ -39,13 +39,14 @@ Frontend Developer
   <tr>
     <td width="50%" valign="top">
       <p align="center">TypstFlow</p>
-      <img width="1920" height="1080" alt="typstflow" src="https://github.com/user-attachments/assets/730c3be3-5b0c-4c56-a625-d46809a1e2f9" />
+      <img width="1920" height="1080" alt="typstflow" src="https://github.com/user-attachments/assets/730c3be3-5b0c-4c56-a625-d46809a1e2f9" style="max-width: 100%; height: auto;" />
       <p align="center"><a href="https://typst-flow.vercel.app/">View Project</a></p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><a href="https://eyesonearth.vercel.app/">Eyes on Earth</a></p>
-      <img width="1280" height="720" alt="eyesonearth" src="https://github.com/user-attachments/assets/39b54e62-997c-4317-b815-8e0a6e53c495" />
-</td>
+      <p align="center">Eyes on Earth</p>
+      <img width="1280" height="720" alt="eyesonearth" src="https://github.com/user-attachments/assets/39b54e62-997c-4317-b815-8e0a6e53c495" style="max-width: 100%; height: auto;" />
+      <p align="center"><a href="https://eyesonearth.vercel.app/">View Project</a></p>
+    </td>
   </tr>
 </table>
 

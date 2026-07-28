@@ -64,7 +64,7 @@ Frontend Developer
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhmedKhaledp-0&theme=advanced&bg_color=0D1117&border=30363D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AhmedKhaledp-0&theme=advanced&background=0D1117&border=30363D&ring=C9D1D9&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ### Daily Contribution Graph

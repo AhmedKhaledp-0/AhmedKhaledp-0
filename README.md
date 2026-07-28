@@ -19,19 +19,19 @@ Frontend Developer
 ### Tech Stack
 
 #### Programming & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB)
 
 #### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css3&logoColor=1572B6) ![React](https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwind-css&logoColor=06B6D4) ![React Query](https://img.shields.io/badge/React_Query-161B22?style=flat&logo=reactquery&logoColor=FF4154) ![Redux](https://img.shields.io/badge/Redux-161B22?style=flat&logo=redux&logoColor=764ABC)
 
 #### Databases & Storage
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat&logo=firebase&logoColor=FFCA28)
 
 #### DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624)
 
 #### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=F24E1E) ![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visual-studio-code&logoColor=007ACC) ![LaTeX](https://img.shields.io/badge/LaTeX-161B22?style=flat&logo=latex&logoColor=008080)
 
 ### Projects
 

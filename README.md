@@ -81,12 +81,6 @@ Frontend Developer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedKhaledp-0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-khaled-fathi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkhaled8415230@gmail.com) [![X](https://img.shields.io/badge/x-100?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AhmedKhaledp_0) [![Portfolio](https://img.shields.io/badge/Portfolio-475D56?style=for-the-badge&logo=headspace&logoColor=white)](https://ahmed-khaled-portfolio-0.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/AhmedKhaledp-0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto)](https://www.linkedin.com/in/ahmed-khaled-fathi) [![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto)](mailto:ahmedkhaled8415230@gmail.com) [![X](https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://x.com/AhmedKhaledp_0) [![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto)](https://ahmed-khaled-portfolio-0.vercel.app)
 
-</div>
-
----
-
-<div align="center">
-  <p>Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.</p>
 </div>
